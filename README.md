@@ -4,7 +4,6 @@ Repository created for the implementation of the second bimester project in comp
 
 <div class="Componentes">
 
-## Group members
 ## Group 3: 
 > Member 1: Jessé Diego;</br>
 > Member 2: Maria Beatriz;</br>
