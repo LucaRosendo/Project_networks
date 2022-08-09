@@ -5,10 +5,10 @@ Repository created for the implementation of the second bimester project in comp
 <div class="Componentes">
 
 ## Group 3: 
-> Member 1: Jessé Diego;</br>
-> Member 2: Maria Beatriz;</br>
-> Member 3: Maria Roberta;</br>
-> Member 4: Lucas Rosendo.
+> Member 1: [Jessé Diego](https://github.com/jezzdiego);</br>
+> Member 2: [Maria Beatriz](https://github.com/);</br>
+> Member 3: [Maria Roberta]();</br>
+> Member 4: [Lucas Rosendo](https://github.com/LucaRosendo).
 <div/>
 
 ## Objective:
