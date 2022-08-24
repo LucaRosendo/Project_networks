@@ -14,3 +14,6 @@
 | VM2-PC4     | 192.168.23.40        |   srv-vm2-pc4     | roberta2.grupo3.ifalara.net  |       mongo      |
 ------------------------------------------------------------------------------------------------------------
 ```
+
+## Modelo de rede P2P criada
+![Diagrama](https://user-images.githubusercontent.com/64742095/186517877-003ba695-8954-48cb-a868-3ba522790809.png)
