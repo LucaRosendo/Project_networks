@@ -84,8 +84,7 @@ ssh administrador@192.168.56.101 #endereço da VM1 do PC3
 ## Adicionando o adaptador Host-Only em uma VM
 
 ## Ativando o dhcp4 para o adaptador 2
-# {imagem}
-
+<img src="/images/configAdapt.png">
 ## Verificando as interfaces
 
 ```
