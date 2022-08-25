@@ -75,7 +75,7 @@ ssh administrador@192.168.56.101 #endereço da VM1 do PC3
 
 ## Configurando rede de hospedeiros para a cominucação entre o Host
 
-## {Imagem da configuração}
+<img src="/images/criandoAdapt.png">
 
 ## Configurando o servidor DHCP no adaptador
 
