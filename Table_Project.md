@@ -79,7 +79,7 @@ ssh administrador@192.168.56.101 #endereço da VM1 do PC3
 
 ## Configurando o servidor DHCP no adaptador
 
-<img src="/images/configAdapt2.png">
+<img src="/images/config2Adapt.png">
 
 ## Adicionando o adaptador Host-Only em uma VM
 
