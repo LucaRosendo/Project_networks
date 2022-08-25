@@ -85,12 +85,13 @@ ssh administrador@192.168.56.101 #endereço da VM1 do PC3
 
 ## Ativando o dhcp4 para o adaptador 2
 <img src="/images/configAdapt.png">
+
 ## Verificando as interfaces
 
 ```
 ifconfig -a
 ```
-# {image}
+<img src="/images/ifconfig.png">
 
 ## Acessando a VM remotamente
 
