@@ -25,5 +25,5 @@ Computadores ligados de forma linear. O final do barramento é onde se localiza 
 ## Requisitos de Hardware
 ### Hardware utilizado nas VM's
 * Núcleos lógico de processamento: 1
-* RAM: 4096MB
+* RAM: 2048MB
 * Espaço em disco: 10GB dinamicamente alocados
