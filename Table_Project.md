@@ -60,7 +60,8 @@ sudo ufw enable
 ```
 
 ## Configurando a interface de rede
-# {Aqui vai ter uma imagem da configuração da rede}
+
+<img src="/images/configRedeBridge.png">
 
 ## Acessando a VM remotamente
 
