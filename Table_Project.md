@@ -1,4 +1,4 @@
-## Definições de endereços IPs da Rede e Nomes de Hosts:
+# Definições de endereços IPs da Rede e Nomes de Hosts:
 
 ```
 ------------------------------------------------------------------------------------------------------------
@@ -15,7 +15,7 @@
 ------------------------------------------------------------------------------------------------------------
 ```
 
-## Modelo de rede P2P criada
+# Modelo de rede P2P criada
 ![Diagrama](https://user-images.githubusercontent.com/64742095/186517877-003ba695-8954-48cb-a868-3ba522790809.png)
 
 ## Topologia Física 
@@ -81,6 +81,23 @@ ssh administrador@192.168.56.101 #endereço da VM1 do PC3
 
 ### {Imagem desta configuração}
 
-## Adicionando o servidor Host-Only em uma VM
+## Adicionando o adaptador Host-Only em uma VM
 
-## 
+## Ativando o dhcp4 para o adaptador 2
+# {imagem}
+
+## Verificando as interfaces
+
+```
+ifconfig -a
+```
+# {image}
+
+## Acessando a VM remotamente
+
+no terminal do computador
+```
+ssh administrador@192.168.56.101
+```
+
+# Testes/Validações
