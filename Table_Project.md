@@ -21,3 +21,9 @@
 ## Topologia Física 
 ### Barramento
 Computadores ligados de forma linear. O final do barramento é onde se localiza o terminal responsável por controlar o fluxo de dados da rede.
+
+## Requisitos de Hardware
+### Hardware utilizado nas VM's
+* Núcleos lógico de processamento: 1
+* RAM: 4096MB
+* Espaço em disco: 10GB dinamicamente alocados
