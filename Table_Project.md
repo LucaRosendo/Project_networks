@@ -27,3 +27,60 @@ Computadores ligados de forma linear. O final do barramento é onde se localiza 
 * Núcleos lógico de processamento: 1
 * RAM: 2048MB
 * Espaço em disco: 10GB dinamicamente alocados
+
+## Configurando os ambientes
+
+### Executar o comando 
+```
+sudo hostnamectl set-hostname srv-vm1-pc1
+```
+para definir o nome da máquina
+
+## Instalando o SSH
+```
+systemctl status ssh
+sudo apt-get install openssh-server
+systemctl status ssh
+```
+
+## Verificando se a conexão tcp nas portas 22 está como LISTENING
+```
+netstat -an | grep LISTEN
+```
+## Configuração do Firewall
+Permitindo conexões remotas via SSH
+```
+sudo ufw status
+sudo ufw allow ssh
+sudo ufw status
+```
+Ativando o Firewall
+```
+sudo ufw enable
+```
+
+## Configurando a interface de rede
+# {Aqui vai ter uma imagem da configuração da rede}
+
+## Acessando a VM remotamente
+
+```
+ssh <usuário>@<ipDoServidorRemoto>
+```
+Exemplo
+
+```
+ssh administrador@192.168.56.101 #endereço da VM1 do PC3
+```
+
+## Configurando rede de hospedeiros para a cominucação entre o Host
+
+## {Imagem da configuração}
+
+## Configurando o servidor DHCP no adaptador
+
+### {Imagem desta configuração}
+
+## Adicionando o servidor Host-Only em uma VM
+
+## 
