@@ -17,3 +17,7 @@
 
 ## Modelo de rede P2P criada
 ![Diagrama](https://user-images.githubusercontent.com/64742095/186517877-003ba695-8954-48cb-a868-3ba522790809.png)
+
+## Topologia Física 
+### Barramento
+Computadores ligados de forma linear. O final do barramento é onde se localiza o terminal responsável por controlar o fluxo de dados da rede.
