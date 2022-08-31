@@ -111,3 +111,33 @@ ssh administrador@192.168.56.101
 ```
 
 # Testes/Validações
+
+## Ping para 192.168.23.35, www e srv-vm1-pc2
+
+![image](https://user-images.githubusercontent.com/64742095/187786254-4d5ebca6-dd72-461e-a079-15652c8b1798.png)
+![image](https://user-images.githubusercontent.com/64742095/187786514-b127706d-e87d-4ec1-b9cd-b867d353673f.png)
+![image](https://user-images.githubusercontent.com/64742095/187786690-bc3c5d97-585e-4d1a-b961-10366e93d8c4.png)
+
+## Acessando remotamente a VM2 do PC 2
+
+![image](https://user-images.githubusercontent.com/64742095/187787624-16783ef0-55ad-4a57-83af-4b46bc2aaacd.png)
+
+## Ping para 192.168.23.38, vue e srv-vm2-pc3
+
+![image](https://user-images.githubusercontent.com/64742095/187788448-f032ce79-40cb-4803-8ed9-1d9991625b91.png)
+![image](https://user-images.githubusercontent.com/64742095/187788571-00e3c118-74ba-4716-8da6-a752fadfb5b8.png)
+![image](https://user-images.githubusercontent.com/64742095/187788722-1197ec65-4a27-4f44-a92a-bdeb8ca45cf2.png)
+
+## Acessando remotamente a VM1 do PC 3
+
+![image](https://user-images.githubusercontent.com/64742095/187793287-85bfea8f-6b7f-43b5-bd8b-66323ed7174e.png)
+
+## Ping para 192.168.23.37, angular e srv-vm1-pc3
+
+![image](https://user-images.githubusercontent.com/64742095/187793475-6becf570-0e19-448d-b384-8f1418ec11a5.png)
+![image](https://user-images.githubusercontent.com/64742095/187793638-27d11660-c3b7-4ba4-9212-3a0909b7ab67.png)
+![image](https://user-images.githubusercontent.com/64742095/187793715-28a2dd39-36fc-4e1e-a6d6-fd0b9cf01ca8.png)
+ 
+ ## Acessando remotamente a VM1 do PC 3
+ 
+ ![image](https://user-images.githubusercontent.com/64742095/187794293-60caeff7-d414-4a8c-826f-b3b0c488f58d.png)
