@@ -1,3 +1,12 @@
+## Requisitado pelo professor: Alaelson Jatobá <br /> Disciplina: Infraestrutura de Redes <br /> Data: 01/09/2020 <br /> Turma: 923 <br /> Grupo: 3
+
+### Integrantes
+* Nome: Jessé Diego da Silva Oliveira
+* Nome: Lucas Rosendo de Farias
+* Nome: Maria Beatriz Ferreira dos Santos
+* Nome: Maria Roberta de Lima Santos
+
+
 # Definições de endereços IPs da Rede e Nomes de Hosts:
 
 ```
