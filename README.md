@@ -177,3 +177,7 @@ ssh administrador@192.168.56.101
 ![printJ](https://user-images.githubusercontent.com/64742095/188005169-fdd04704-c1de-434b-8b61-53e817ee9713.png)
 
 # Topologia física
+<img src="https://user-images.githubusercontent.com/64742095/188007472-7a141e0b-5255-4233-9c2f-45b61bee5ad9.jpg" width="200px" />
+<img src="https://user-images.githubusercontent.com/64742095/188007515-2ffcdeac-1d6f-494b-ba64-cfd48a26531c.jpg" />
+
+
