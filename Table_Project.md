@@ -50,6 +50,11 @@ scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-server-mini.ova
 sudo apt install virtualbox-ext-pack
 ```
 
+# Na VM:
+
+User: administrador
+Senha: adminifal
+
 ### Executar o comando 
 ```
 sudo hostnamectl set-hostname srv-vm1-pc1
