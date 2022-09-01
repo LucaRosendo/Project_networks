@@ -6,6 +6,11 @@
 * Nome: Maria Beatriz Ferreira dos Santos
 * Nome: Maria Roberta de Lima Santos
 
+## Objetivos do projeto:
+* Colocar em prática o que aprendemos em aula
+* Criar um tutorial resumido ensinando a fazer a conexão entre VM's de PC's diferentes 
+* Testar os conhecimentos adquiridos em aulas
+
 
 # Definições de endereços IPs da Rede e Nomes de Hosts:
 
@@ -158,9 +163,3 @@ ssh administrador@192.168.56.101
  ## Acessando remotamente a VM1 do PC 3
  
  ![image](https://user-images.githubusercontent.com/64742095/187794293-60caeff7-d414-4a8c-826f-b3b0c488f58d.png)
-
-
-## Objetivos do projeto:
-* Colocar em prática o que aprendemos em aula
-* Criar um tutorial resumido ensinando a fazer a conexão entre VM's de PC's diferentes 
-* Testar os conhecimentos adquiridos em aulas
