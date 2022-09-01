@@ -52,7 +52,7 @@ sudo apt install virtualbox-ext-pack
 
 # Na VM:
 
-User: administrador
+User: administrador <br />
 Senha: adminifal
 
 ### Executar o comando 
