@@ -45,7 +45,7 @@ Computadores ligados de forma linear. O final do barramento é onde se localiza 
 scp aluno@192.168.101.10:~/Public/iso-images/ubuntu-server-mini.ova
 ```
 
-### Antes de iniciar a máquina virtual, baixe o Extensão Pack
+### Antes de iniciar a máquina virtual, baixe o Extension Pack
 ```
 sudo apt install virtualbox-ext-pack
 ```
