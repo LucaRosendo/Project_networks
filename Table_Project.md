@@ -29,7 +29,7 @@
 ------------------------------------------------------------------------------------------------------------
 ```
 
-# Modelo de rede P2P criada
+# Modelo de rede criada
 
 ![DiagramaRede](https://user-images.githubusercontent.com/64742095/187998980-f5d946bc-e7c4-4514-8161-211bffa7e621.png)
 
