@@ -163,3 +163,17 @@ ssh administrador@192.168.56.101
  ## Acessando remotamente a VM1 do PC 3
  
  ![image](https://user-images.githubusercontent.com/64742095/187794293-60caeff7-d414-4a8c-826f-b3b0c488f58d.png)
+ 
+ ## Acessando remotamente a VM1 do PC 2 via nome do usuário
+ 
+ ![image](https://user-images.githubusercontent.com/64742095/188003436-2ff8c587-77c6-44c3-a8d8-aaaa42b4869c.png)
+ 
+  ## Acessando remotamente a VM1 do PC 1 via nome do usuário
+  
+  ![image](https://user-images.githubusercontent.com/64742095/188004179-c1519eb4-4835-4c5b-8ed6-5f5dcb3e457a.png)
+  
+  ## Acessando remotamente a VM1 do PC 3 via nome do usuário
+
+![printJ](https://user-images.githubusercontent.com/64742095/188005169-fdd04704-c1de-434b-8b61-53e817ee9713.png)
+
+# Topologia física
