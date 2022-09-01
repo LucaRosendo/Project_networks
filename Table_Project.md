@@ -26,9 +26,7 @@
 
 # Modelo de rede P2P criada
 
-
-![Diagrama](https://user-images.githubusercontent.com/64742095/187994419-279edc4b-9b8e-45d1-a2d2-ab351db7da1e.png)
-
+![DiagramaRede](https://user-images.githubusercontent.com/64742095/187998980-f5d946bc-e7c4-4514-8161-211bffa7e621.png)
 
 ## Topologia Física 
 ### Barramento
