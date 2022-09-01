@@ -34,7 +34,7 @@
 ![DiagramaRede](https://user-images.githubusercontent.com/64742095/187998980-f5d946bc-e7c4-4514-8161-211bffa7e621.png)
 
 ## Topologia Física 
-### Barramento
+### Estrela***
 Computadores ligados de forma linear. O final do barramento é onde se localiza o terminal responsável por controlar o fluxo de dados da rede.
 
 ## Requisitos de Hardware
